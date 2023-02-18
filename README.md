@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/Java-#0098FF?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-0098FF?style=for-the-badge&logo=fontawesome&logoColor=white">
 
   
   
