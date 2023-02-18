@@ -1,18 +1,11 @@
-### 🤞 Nice way to meet me
+### 🤞 Nice to meet me
 <p>
-  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://ildong2e.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  👋&nbsp; Hi there! I'm <b>full stack developer</b>
 </p>
 
 
