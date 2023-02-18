@@ -60,8 +60,8 @@
   
   // <img src="https://img.shields.io/badge/[입력할 글자]-[입력할 색상 # 빼고]?style=for-the-badge&logo=[마크이름]&logoColor=white">
   마크, 색상 사이트 https://simpleicons.org/
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongil&theme=react-dark)](https://github.com/ildong2e/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
