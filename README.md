@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -58,8 +58,8 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/Java-0098FF?style=for-the-badge&logo=PyG&logoColor=white">
-
-  
-  
+  // <img src="https://img.shields.io/badge/[입력할 글자]-[입력할 색상 # 빼고]?style=for-the-badge&logo=[마크이름]&logoColor=white">
+  마크, 색상 사이트 https://simpleicons.org/
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongil&theme=react-dark)](https://github.com/ildong2e/github-readme-activity-graph)
