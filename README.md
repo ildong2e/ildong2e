@@ -1,6 +1,10 @@
 ### 🤞 Nice to meet me
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongil's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Dongil's%20GitHub.&descAlignY=51&descAlign=62)
 
+<a href="https://ildong2e.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=Blogger&logo=Blogger&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
 <p>
   👋&nbsp; I'm <b>full stack developer</b>
 </p>
@@ -35,4 +39,8 @@
   <img src="https://img.shields.io/badge/SMTP-EA4335?style=flat&logo=Gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/queryDSL-0769AD?style=flat&logo=&logoColor=white" />
 </div>
-- 부트스트랩, restAPI, chart.js, 챗봇라이브러리
+- 부트스트랩
+
+
+
+
